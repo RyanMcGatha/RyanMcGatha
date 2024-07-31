@@ -1,16 +1,14 @@
-## Hi there 👋
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat&logo=framer&logoColor=white) ![Three.js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-fc6d26?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%2312100E.svg?style=flat&logo=github&logoColor=white) 
 
-<!--
-**RyanMcGatha/RyanMcGatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋🏼 About Me:
+I'm a passionate full-stack developer with a strong foundation in both front-end and back-end technologies. I enjoy building dynamic, responsive, and user-friendly applications that solve real-world problems. My expertise lies in modern web technologies like React, Node.js, and PostgreSQL, and I'm always eager to learn new tools and frameworks.
 
-Here are some ideas to get you started:
+Currently, I'm working on various full-stack projects, constantly honing my skills and exploring new areas of development. I'm always open to discussing new opportunities, whether it's an exciting project, a challenging role, or a chance to collaborate on innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Feel free to reach out to me via email at [ryanmcgatha@gmail.com](mailto:ryanmcgatha@gmail.com) or call me at [864-434-6547](tel:+18644346547). Let's connect and explore how we can work together!
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryanmcgatha) [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://ryanm.info/) 
+
+
